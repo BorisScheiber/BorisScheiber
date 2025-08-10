@@ -8,7 +8,7 @@
 
 
 <div align="center"> 
-  <a href="https://boris-scheiber.at" target="_blank" rel="noopener noreferrer">
+  <a href="https://scheiber-boris.at" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Icon" />
   </a>
   <a href="https://www.linkedin.com/in/boris-scheiber-65021b339" target="_blank" rel="noopener noreferrer">
